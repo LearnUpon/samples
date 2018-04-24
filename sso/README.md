@@ -8,3 +8,6 @@ run in to difficulty with using LearnUpon SSO.
 ## lu_sso_sample.cgi
 This is a PERL CGI script to generate a LearnUpon Signed Query Single Sign-On
 (SQSSO) URL, and how it is signed for verification, etc.
+
+## sqsso.groovy
+Example in groovy which you can use to adapt to a custom java implementation
